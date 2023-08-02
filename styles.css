@@ -1,0 +1,12 @@
+.header {
+    text-align: center;
+    font-size:xx-large;
+    font-family: Verdana, Helvetica,sans-serif;
+    color:cadetblue;
+}
+
+li {
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(248, 50, 50);
+}

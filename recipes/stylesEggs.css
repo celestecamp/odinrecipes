@@ -1,0 +1,43 @@
+* {
+    font-family: Verdana, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align:left;
+    font-size: x-large;
+}
+
+h1, h2 {
+    color:rgb(255, 108, 164);
+}
+
+img {
+    height: auto;
+    width: 400px;
+}
+
+h2 {
+    text-align:left;
+    font-size: large;
+}
+
+p, .ing {
+    font-size: 15px;
+}
+
+.ing {
+    font-weight: bold;
+}
+
+.ing.impar {
+    color:violet;
+}
+
+.ing.par {
+    color:rgb(96, 231, 255);
+}
+
+.steps {
+    font-size: 14px;
+    background-color: rgb(252, 204, 212);
+}
